@@ -15,12 +15,6 @@
 
  **<h3 align="left">🚀 Passionate Frontend Developer | Turning ideas into smooth, responsive, and interactive web experiences with React, JavaScript, and SCSS. Always pushing for clean code, performance, and great UX</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **💻 Developing a new app using React**
-- 🌱 I'm currently learning: **📚 MongoDB**
-- 💬 Ask me about: **💡 JavaScript, React, Next.js, Responsive design **
-
  **<h3 align="left">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: left;"><img src="https://skillicons.dev/icons?i=javascript" height="36" alt="JavaScript" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=sass" height="36" alt="Sass" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=vite" height="36" alt="Vite" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="VSCode" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=figma" height="36" alt="Figma" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js" style="margin-right: 12px"></div>
