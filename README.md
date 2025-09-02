@@ -4,7 +4,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Taras Poiatsyka
+        Hi, my name is Taras Poiatsyka 👋
       </h1>
     </summary>
   </ul>
@@ -15,9 +15,23 @@
 
  **<h3 align="left">🚀 Web Developer (Frontend/Full-Stack) | Building responsive and interactive web applications with **React, TypeScript, SCSS, Node.js, and Firebase**. Focused on clean code, performance, and excellent user experiences.</h3>**
 
- **<h3 align="left">Tech Stack</h3>**
+ **<h3 align="left">Top Technologies</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: left;"><img src="https://skillicons.dev/icons?i=javascript" height="36" alt="JavaScript" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=sass" height="36" alt="Sass" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=vite" height="36" alt="Vite" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="VSCode" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=figma" height="36" alt="Figma" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js" style="margin-right: 12px"></div>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+</div>
 
  **<h3 align="left">GitHub Stats</h3>**
 
