@@ -1,7 +1,7 @@
 ![👋 Hi, my name is Taras Poiatsyka](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <div id="toc">
-  <ul align="center" style="list-style: none">
+  <ul align="left" style="list-style: none">
     <summary>
       <h1>
         Hi, my name is Taras Poiatsyka 👋
@@ -10,8 +10,8 @@
   </ul>
 </div>
 
-**<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://github.com/https://github.com/tvsxar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/taras-poiatsyka-42a99b244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="tarasofficial82@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 12px"></a></p>
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/https://github.com/tvsxar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/taras-poiatsyka-42a99b244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="tarasofficial82@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 12px"></a></p>
 
  **<h3 align="left">🚀 Web Developer (Frontend/Full-Stack) | Building responsive and interactive web applications with **React, JavaScript, SCSS, Node.js, and Express**. Focused on clean code, performance, and excellent user experiences.</h3>**
 
