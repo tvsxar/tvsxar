@@ -11,7 +11,7 @@ Focused on performance, scalability, and great user experiences. ⚡
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,redux,sass,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,redux,sass,tailwind" />
 </p>
 
 **Backend**
