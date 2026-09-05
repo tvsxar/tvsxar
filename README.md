@@ -2,10 +2,10 @@
 
 # Hi, I'm Taras 👋
 
-**Fullstack Developer**
+**Software Engineer | Full-Stack JavaScript**
 
-Creating responsive, high-quality web applications.  
-Focused on performance, scalability, and great user experiences. ⚡
+Building production web applications across frontend and backend with React, Next.js, TypeScript, and Node.js.  
+Focused on maintainable, testable software and modern development practices. ⚡
 
 ## 🛠 Tech Stack
 
@@ -24,12 +24,21 @@ Focused on performance, scalability, and great user experiences. ⚡
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
 </p>
 
+### Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,vitest" />
+</p>
+
 ### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
-## 🔗 Get in Touch:
-<p align="left"><a href="mailto:tarasofficial82@gmail.com" target="_blank"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=32&showText=true&text=Gmail&textColor=%23545454" alt="gmail" /></a> <a href="https://www.linkedin.com/in/poiatsyka/" target="_blank"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&showText=true&text=LinkedIn&textColor=%23545454" alt="linkedin" /></a><a href="https://t.me/tsvxar"><img src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=32&showText=true&text=Telegram&textColor=%23545454" alt="telegram" /></a> <a href="https://drive.google.com/file/d/1hgt1KBS6fHZrhFDr2zh5ZEsNUwoOqZGd/view?usp=sharing"><img src="https://www.readmecodegen.com/api/social-icon?name=link&size=32&color=%2310b981&showText=true&text=Resume&textColor=%23545454" alt="link" /></a> </p>
+## 🔗 Get in Touch
+
+[Email](mailto:tarasofficial82@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/poiatsyka/) ·
+[Portfolio](https://taras-portfolio-theta.vercel.app/) ·
+[Telegram](https://t.me/tsvxar)
 
 
