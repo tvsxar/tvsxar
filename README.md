@@ -29,9 +29,9 @@ Focused on maintainable, testable software and modern development practices. ⚡
   <img src="https://skillicons.dev/icons?i=jest,vitest" />
 </p>
 
-### Tools
+### Tools & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,vercel" />
 </p>
 
 ## 🔗 Get in Touch
